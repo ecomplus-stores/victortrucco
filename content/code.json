@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".discount-applier__coupon-btn {\n    display: none !important;\n}",
   "html_head": "",
   "html_body": "<script>window.ecomShippingApps = [1236, 1253]</script>"
 }
