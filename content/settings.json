@@ -3,8 +3,8 @@
   "currency_symbol": "R$",
   "primary_color": "#c4bea1",
   "theme": {
-    "bootswatch": "cerulean",
-    "custom": "clean-gray"
+    "bootswatch": "united",
+    "custom": "_"
   },
   "bg_color": "#f4f4f4",
   "repository": "ecomplus-stores/victortrucco",
