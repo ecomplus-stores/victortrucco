@@ -1,5 +1,5 @@
 {
-  "css": ".discount-applier__coupon-btn, .discount-applier__intro, \n.top-bar__countdown,\n.top-bar__page-links\n{\n    display: none !important;\n}\n\n.top_bar, .header { background-color: #c4bea1; }\n\n.product-card { background-color: #eeede4; border: #c4bea1 1px solid; margin-bottom: 5px; }\n\n.header__nav a {  text-transform: none; }\n\n",
+  "css": ".discount-applier__coupon-btn, .discount-applier__intro, \n.top-bar__countdown,\n.top-bar__page-links\n{\n    display: none !important;\n}\n\n.top_bar, .header { background-color: #c4bea1; }\n\n.product-card { background-color: #eeede4; border: #c4bea1 1px solid;  }\n\n.header__nav a {  text-transform: none; }\n\ndiv.col-6:nth-child(1) {margin-bottom: 5px;}\n",
   "html_head": "",
   "html_body": "<script>window.ecomShippingApps = [1236, 1253]</script>"
 }
