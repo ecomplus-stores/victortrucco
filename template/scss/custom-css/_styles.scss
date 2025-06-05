@@ -1,12 +1,1 @@
 // Add your custom CSS here.
-
-.shipping-line[data-service-code=PICKUP] strong {
-    display: none !important;
-  }
-  .shipping-line[data-service-code=PICKUP] span {Add commentMore actions
-    color: transparent !important;
-  }
-  .shipping-line > small {
-    -webkit-line-clamp: 5 !important;
-    font-weight: bold
-  }
